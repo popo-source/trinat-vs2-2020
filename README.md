@@ -1,5 +1,7 @@
 # trinat-vs2-2020 Paul Hauser:
 
+# Erledigte Arbeit:
+
 Praktikumsaufgaben Verteilte Systeme 2:
 
 1) Socket: TippDesTagesClient und TippDesTagesServer
